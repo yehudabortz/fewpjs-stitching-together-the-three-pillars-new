@@ -4,3 +4,4 @@ describe("index.js", () => {
     expect(testVar).to.deep.equal({}) //without .deep, {} does not equal {}
   })
 })
+
